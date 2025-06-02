@@ -32,8 +32,8 @@ cookies = 'www.catchplay.com_cookies.txt'
 cookies = 'www.crunchyroll.com_cookies.txt'
 
 [credentials.DisneyPlus]
-email = 'jinf4fb@naver.com'
-password = '0plko98?'
+email = ''
+password = ''
 
 [credentials.FridayVideo]
 cookies = 'video.friday.tw_cookies.txt'
